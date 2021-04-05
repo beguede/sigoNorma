@@ -1,0 +1,14 @@
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Infrastructure.deps.json
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Infrastructure.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Infrastructure.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Domain.Core.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Domain.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\bin\Release\netstandard2.1\NormasService.Domain.Core.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.csprojAssemblyReference.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.AssemblyInfo.cs
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.csproj.CopyComplete
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Infrastructure\obj\Release\netstandard2.1\NormasService.Infrastructure.pdb

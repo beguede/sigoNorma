@@ -1,0 +1,12 @@
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\bin\Debug\netstandard2.1\NormasService.Domain.deps.json
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\bin\Debug\netstandard2.1\NormasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\bin\Debug\netstandard2.1\NormasService.Domain.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\bin\Debug\netstandard2.1\NormasService.Domain.Core.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\bin\Debug\netstandard2.1\NormasService.Domain.Core.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.csprojAssemblyReference.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.AssemblyInfoInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.AssemblyInfo.cs
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.csproj.CopyComplete
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Domain\obj\Debug\netstandard2.1\NormasService.Domain.pdb

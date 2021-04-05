@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="andremagalhaes-001-site9" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\132488\\Downloads\\15\ -\ TCC\ -\ Arquitetura\ de\ Software\ Distribuído\ \(2019\)\\Projetos\\NormasService\\src\\NormasService\.Api\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

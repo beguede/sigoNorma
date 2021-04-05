@@ -1,0 +1,16 @@
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Application.deps.json
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Application.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Application.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Application.xml
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Domain.Core.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Domain.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Domain.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\bin\Debug\netstandard2.1\NormasService.Domain.Core.pdb
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.csprojAssemblyReference.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.AssemblyInfoInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.AssemblyInfo.cs
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.csproj.CoreCompileInputs.cache
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.csproj.CopyComplete
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.dll
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.xml
+C:\Users\132488\Downloads\15 - TCC - Arquitetura de Software Distribuído (2019)\Projetos\NormasService\src\NormasService.Application\obj\Debug\netstandard2.1\NormasService.Application.pdb
