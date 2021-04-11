@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {}
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
         "projectName": "NormasService.Domain.Core",
-        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",

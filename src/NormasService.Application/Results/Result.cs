@@ -1,9 +1,11 @@
 ﻿using Flunt.Notifications;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 
 namespace NormasService.Application
 {
+    [ExcludeFromCodeCoverage]
     public class Result : Notifiable
     {
         public bool Success { get { return !Notifications.Any(); } }

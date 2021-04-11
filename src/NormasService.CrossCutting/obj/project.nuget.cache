@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "favMQc1F2k1pqt4C2O14n12uVPn46GwEWT6Ko1GwtZp6Ol5EfgKwIJB8AYfIy+mBK0ZQQywelvOlwsAO2c056g==",
+  "dgSpecHash": "7PIn0bnDnIIflgu0H1P2oEs8sENz9f0tloTj6KQZu/qcZ1Me34e7BAreAy5GJPFvMOFhdiWPVxhK7DcYdOlDew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.CrossCutting\\NormasService.CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.CrossCutting\\NormasService.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\132488\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\132488\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",

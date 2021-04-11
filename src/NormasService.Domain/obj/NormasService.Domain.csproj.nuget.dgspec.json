@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj": {}
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
         "projectName": "NormasService.Domain.Core",
-        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\obj\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj": {
+    "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj",
         "projectName": "NormasService.Domain",
-        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj",
+        "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain\\NormasService.Domain.csproj",
         "packagesPath": "C:\\Users\\132488\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain\\obj\\",
+        "outputPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\132488\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj"
+              "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Domain.Core\\NormasService.Domain.Core.csproj"
               }
             }
           }

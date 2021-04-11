@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGuR4806p3cm23k8T2dTM5SwWElkoBu/N17pvrQzU/qQ1KTjiIV9Z6jb2m0z1Vh6oSQW7FKY5CZ3d/zgpjWW2w==",
+  "dgSpecHash": "wHTLbcNEmGCqvIXNuIhB76YYseQRNEjZEJ5NqK80bvDXheZ3rVzb7iYcV17LzRWHb1Lm/UJvS/7fCr8xTVkvLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Api\\NormasService.Api.csproj",
+  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Api\\NormasService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\132488\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\132488\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

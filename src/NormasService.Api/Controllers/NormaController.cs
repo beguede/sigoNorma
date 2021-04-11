@@ -94,10 +94,6 @@ namespace NormasService.Api.Controllers
 
             try
             {
-                Norma norma = _mapper.Map<Norma>(normaModel);
-                if (norma.Invalid)
-                    return BadRequest(norma.Notifications);
-
                 var result = await _normaApplication.Atualizar(normaModel);
 
                 if (result.Success)

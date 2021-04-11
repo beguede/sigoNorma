@@ -8,4 +8,8 @@
     <ProjectReference Include="..\NormasService.Domain.Core\NormasService.Domain.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+
 </Project>

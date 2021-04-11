@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9m++SNHJ3WFPYdSLpn9TwxcqiuteSfckDJUw6Vwb7B00M7fZAgOLxXxfHpQpppoInqenz+zMftBOhT2guhLUQ==",
+  "dgSpecHash": "Ft2Eknk9k/aBzWwqy4TmuJfvFSYrqoxFh0ZArlHQusHaDvXod9ca+W6asNjhAvk/sfwHu4CYvVAV6mXrPcOgmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Projetos\\NormasService\\src\\NormasService.Infrastructure\\NormasService.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\132488\\Downloads\\15 - TCC - Arquitetura de Software Distribuído (2019)\\Entrega\\NormasService\\src\\NormasService.Infrastructure\\NormasService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\132488\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\132488\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
